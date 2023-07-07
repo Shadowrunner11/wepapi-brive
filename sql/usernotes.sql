@@ -22,4 +22,4 @@ INSERT INTO [TestSchema].[Project](
 INSERT INTO [TestSchema].[UserNote] (
   [Note],
   [UserId]
-) VALUES ('Muy interesante: el instrcutor fue muy claro y empatico', 4)
+) VALUES ('Muy interesante: el instructor fue muy claro y empatico', 4)
